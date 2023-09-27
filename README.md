@@ -33,7 +33,11 @@
 ## 🚀 Pet проекты
 - [ScheduleVKBot](https://github.com/passionde/schedulevkbot): [Бот](https://vk.com/im?sel=-211828865) в VK с расписанием пар СурГУ. 
 - [SurSU Class Schedule Parser](https://github.com/passionde/sursu-class-schedule-parser): Парсер pdf-расписаний СурГУ.
+- [SurSU Class Schedule API](https://github.com/passionde/sursu-class-schedule-api): API с методами для получения расписания пар СурГУ.
 - [CodeWarsBot](https://github.com/passionde/codewarsbot): [Бот](https://t.me/cw_check_bot) в TG для сбора и анализа выполненных кат на Codewars.
+
+## ✅📝 Тестовые задания
+- [User Segmentation Service](https://github.com/passionde/user-segmentation-service): Тестовое задание на должность стажера (backend/GO) в компанию Avito.
 
 ## 🧩 Алгоритмы
 - [CodeWars](https://www.codewars.com/users/passionfde)
